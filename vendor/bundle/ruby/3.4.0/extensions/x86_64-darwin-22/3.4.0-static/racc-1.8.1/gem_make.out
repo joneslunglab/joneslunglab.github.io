@@ -1,0 +1,18 @@
+current directory: /Users/dakotajones/github/joneslunglab.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/dakotajones/.rubies/ruby-3.4.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/dakotajones/github/joneslunglab.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250413-52132-gemarc sitelibdir\=./.gem.20250413-52132-gemarc clean
+
+current directory: /Users/dakotajones/github/joneslunglab.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250413-52132-gemarc sitelibdir\=./.gem.20250413-52132-gemarc
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/dakotajones/github/joneslunglab.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250413-52132-gemarc sitelibdir\=./.gem.20250413-52132-gemarc install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250413-52132-gemarc/racc
+
+current directory: /Users/dakotajones/github/joneslunglab.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250413-52132-gemarc sitelibdir\=./.gem.20250413-52132-gemarc clean
