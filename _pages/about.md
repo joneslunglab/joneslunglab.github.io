@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Welcome to the Jones Lab where we study lungs and stuff"
+title: "
+Welcome to the Jones Lab - where we study the lungs and how they heal"
 author_profile: false
 redirect_from: 
   - /about/
