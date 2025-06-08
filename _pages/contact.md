@@ -2,10 +2,10 @@
 permalink: /contact/
 author_profile: false
 ---
-<div align="center">
-<img src="../files/uiowa.jpg" width="550">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="../files/jones lung lab.png" style="max-width: 250px; height: auto; border: 2px solid black;">
+  <img src="../files/uiowa.jpg" style="max-width: 450px; height: auto;">
 </div>
-
 
 Our laboratory is part of the [Department of Anatomy and Cell Biology](https://acb.medicine.uiowa.edu/) within the [Carver School of Medicine](https://medicine.uiowa.edu/). We are located on the first floor of the Bowen Science Building.
 
