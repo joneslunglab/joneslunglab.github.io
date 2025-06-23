@@ -1,6 +1,7 @@
 ---
 permalink: /news/
 author_profile: false
+date: false
 ---
 
 ## August 4th 2025: 
