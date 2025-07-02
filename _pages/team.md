@@ -9,4 +9,7 @@ Dakota Jones, PhD<br/>
 Assistant Professor<br/>
 Department of Anatomy and Cell Biology<br/>
 Carver School of Medicine<br/>
-University of Iowa<br/><br/><br/><br/>
+University of Iowa<br/><br/>
+
+favorite celltype in the lung: fibroblasts
+<br/>
