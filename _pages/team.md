@@ -11,5 +11,4 @@ Department of Anatomy and Cell Biology<br/>
 Carver School of Medicine<br/>
 University of Iowa<br/>
 
-favorite celltype in the lung: fibroblasts
 <br/>
