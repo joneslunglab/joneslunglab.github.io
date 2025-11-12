@@ -19,3 +19,9 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+{% comment %}
+  Load site-specific head customizations (favicons, MathJax, responsive width CSS, etc.)
+{% endcomment %}
+{%- comment -%} {% include head/custom.html %} {%- endcomment -%}
+
