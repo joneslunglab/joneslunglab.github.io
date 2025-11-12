@@ -1,6 +1,7 @@
 ---
 permalink: /research/
 author_profile: false
+title: "What motivates us"
 ---
 
 **Stem cells** sculpt, shape, and form every tissue in our bodies. Likewise, the extracellular environment feeds back onto these cells to direct their function. This dynamic interplay is the central focus of our laboratory's research
