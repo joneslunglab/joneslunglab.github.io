@@ -32,7 +32,7 @@ title: "Meet the team"
   }
 }
 </style>
-<br/><br/>
+<br/>
 <div class="person">
   <img src="../files/dakota photo.jpeg" alt="Dakota Jones, PhD">
   <div>

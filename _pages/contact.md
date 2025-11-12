@@ -16,6 +16,3 @@ We are always on the lookout for talented and curious scientists from a wide ran
 **Prospective postdocs**: Please contact [Dakota](mailto:dakota-jones@uiowa.edu) with your CV and a brief explanation of your research interests/accomplishments and why you're interested in joining the laboratory.
 
 **Email:** dakota-jones@uiowa.edu
-
-**Mail**
-
