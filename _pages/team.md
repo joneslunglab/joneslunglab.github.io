@@ -90,8 +90,8 @@ title: "Meet the team"
 <!-- YUN -->
 <div class="person">
   <div class="photo-hover">
-    <img class="photo-main" src="../files/yun.jpg" alt="Yeo Gyun Yun">
-    <img class="photo-hover-img" src="../files/yun2.jpg" alt="Yeo Gyun Yun (hover)">
+    <img class="photo-main" src="../files/yun.jpeg" alt="Yeo Gyun Yun">
+    <img class="photo-hover-img" src="../files/yun2.jpeg" alt="Yeo Gyun Yun (hover)">
   </div>
   <div>
     <strong>Yeo Gyun Yun, PhD</strong><br/>
