@@ -26,6 +26,7 @@ title: "Meet the Lab"
   position: relative;
   width: 40%;
   max-width: 360px;
+  overflow: hidden; /* optional but helps if the hover image is taller */
 }
 
 .photo-hover img {
@@ -41,11 +42,13 @@ title: "Meet the Lab"
   transition: opacity 0.25s ease-in-out;
 }
 
-/* hover image (starts hidden) */
+/* hover image (starts hidden, vertically centered) */
 .photo-hover-img {
   position: absolute;
-  top: 0;
+  top: 50%;
   left: 0;
+  width: 100%;
+  transform: translateY(-50%);
   opacity: 0;
   transition: opacity 0.25s ease-in-out;
 }
@@ -59,6 +62,7 @@ title: "Meet the Lab"
   opacity: 0;
 }
 </style>
+
 
 <br/>
 
