@@ -2,7 +2,7 @@
 layout: single
 permalink: /team/
 author_profile: false
-title: "Meet the team"
+title: "Meet the Lab"
 ---
 
 <style>
@@ -108,5 +108,17 @@ title: "Meet the team"
   <div>
     <strong>Ellyse Froehlich</strong><br/>
     <em>Postbac</em>
+  </div>
+</div>
+
+<!-- BRUCE -->
+<div class="person">
+  <div class="photo-hover">
+    <img class="photo-main" src="../files/bruce.JPG" alt="Bruce Warmann">
+    <img class="photo-hover-img" src="../files/bruce2.jpg" alt="Bruce Warmann (hover)">
+  </div>
+  <div>
+    <strong>Bruce Warmann</strong><br/>
+    <em>Rotating Graduate Student</em>
   </div>
 </div>
