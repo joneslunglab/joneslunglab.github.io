@@ -7,11 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Nestled within the corn fields of Iowa, we explore stem cells in the respiratory system and the signals that guide their behavior and function. Our goal is to leverage the knowledge we gain during our scientific exploration to develop future repair strategies to heal the diseased lung.
+Nestled within the corn fields of Iowa, we explore stem cells in the respiratory system and the signals that guide their behavior and function. Our lab brings together curious scientists from a wide variety of backgrounds, including bioengineering, biochemistry, immunology, and cell biology, to tackle fundamental questions in regenerative lung biology. Our goal is to leverage the knowledge we gain during our scientific exploration to lay the foundation for future strategies to heal the diseased lung.
 
 We welcome you to explore our pages to learn more about who we are and what excites us in the lab.
-
-The Jones Lab opened this August at the University of Iowa and is recruiting at all levels.
 
 <div align="center">
 <img src="../files/wildtype_movie-zoomedin-8fps.gif" width="500" height="500">

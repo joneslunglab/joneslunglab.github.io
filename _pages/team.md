@@ -50,7 +50,7 @@ title: "Meet the Lab"
   transition: opacity 0.25s ease-in-out;
 }
 
-/* crossfade on hover: show hover image, hide main image */
+/* crossfade on hover */
 .photo-hover:hover .photo-hover-img {
   opacity: 1;
 }
@@ -59,8 +59,6 @@ title: "Meet the Lab"
   opacity: 0;
 }
 </style>
-
-
 
 <br/>
 
@@ -75,29 +73,8 @@ title: "Meet the Lab"
     <em>Principal Investigator</em><br/><br/>
     Assistant Professor<br/>
     Department of Anatomy and Cell Biology<br/>
-    Carver School of Medicine<br/>
+    Carver College of Medicine<br/>
     University of Iowa
-  </div>
-</div>
-
-<!-- WEIHONG (NO HOVER) -->
-<div class="person">
-  <img src="../files/weihong.jpg" alt="Weihong Zhou" style="width:40%; max-width:360px; border-radius:8px;">
-  <div>
-    <strong>Weihong Zhou</strong><br/>
-    <em>Lab Manager</em>
-  </div>
-</div>
-
-<!-- YUN -->
-<div class="person">
-  <div class="photo-hover">
-    <img class="photo-main" src="../files/yun.jpeg" alt="Yeo Gyun Yun">
-    <img class="photo-hover-img" src="../files/yun2.jpeg" alt="Yeo Gyun Yun (hover)">
-  </div>
-  <div>
-    <strong>Yeo Gyun Yun, PhD</strong><br/>
-    <em>Postdoctoral Fellow</em>
   </div>
 </div>
 
@@ -113,6 +90,27 @@ title: "Meet the Lab"
   </div>
 </div>
 
+<!-- ABBY -->
+<div class="person">
+  <img src="../files/Abby_McLeod.jpeg" alt="Abby McLeod" style="width:40%; max-width:360px; border-radius:8px;">
+  <div>
+    <strong>Abby McLeod</strong><br/>
+    <em>Research Assistant</em>
+  </div>
+</div>
+
+<!-- JOCELYN -->
+<div class="person">
+  <div class="photo-hover">
+    <img class="photo-main" src="../files/JR_headshot.jpeg" alt="Jocelyn Riley">
+    <img class="photo-hover-img" src="../files/JR_funpic.jpeg" alt="Jocelyn Riley (hover)">
+  </div>
+  <div>
+    <strong>Jocelyn Riley</strong><br/>
+    <em>Graduate Student</em>
+  </div>
+</div>
+
 <!-- BRUCE -->
 <div class="person">
   <div class="photo-hover">
@@ -121,6 +119,27 @@ title: "Meet the Lab"
   </div>
   <div>
     <strong>Bruce Warmann</strong><br/>
-    <em>Rotating Graduate Student</em>
+    <em>Graduate Student</em>
+  </div>
+</div>
+
+<!-- YUN -->
+<div class="person">
+  <div class="photo-hover">
+    <img class="photo-main" src="../files/yun.jpeg" alt="Yeo Gyun Yun">
+    <img class="photo-hover-img" src="../files/yun2.jpeg" alt="Yeo Gyun Yun (hover)">
+  </div>
+  <div>
+    <strong>Yeo Gyun Yun, PhD</strong><br/>
+    <em>Postdoctoral Fellow</em>
+  </div>
+</div>
+
+<!-- WEIHONG -->
+<div class="person">
+  <img src="../files/weihong.jpg" alt="Weihong Zhou" style="width:40%; max-width:360px; border-radius:8px;">
+  <div>
+    <strong>Weihong Zhou</strong><br/>
+    <em>Lab Manager</em>
   </div>
 </div>
