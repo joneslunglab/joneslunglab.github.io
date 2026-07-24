@@ -7,11 +7,86 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Nestled within the corn fields of Iowa, we explore stem cells in the respiratory system and the signals that guide their behavior and function. Our lab brings together curious scientists from a wide variety of backgrounds, including bioengineering, biochemistry, immunology, and cell biology, to tackle fundamental questions in regenerative lung biology. Our goal is to leverage the knowledge we gain during our scientific exploration to lay the foundation for future strategies to heal the diseased lung.
+Nestled within the cornfields of Iowa, we study stem cells in the respiratory system and the signals that guide their behavior during homeostasis, injury, and repair. Our lab brings together scientists with backgrounds in bioengineering, biochemistry, immunology, and cell biology to tackle fundamental questions in regenerative lung biology. We combine live imaging, organoid models, mouse genetics, single-cell genomics, and computational biology to understand how the cellular neighborhoods of the lung control regeneration. 
 
-We welcome you to explore our pages to learn more about who we are and what excites us in the lab.
+Our goal is to uncover how cells communicate within the lung and use that knowledge to lay the foundation for future strategies to heal lung disease.
 
-<div align="center">
-<img src="../files/wildtype_movie-zoomedin-8fps.gif" width="500" height="500">
+We welcome you to explore our pages to learn more about our research, our team, and what excites us in the lab.
+<div style="text-align:center; margin:30px auto 50px auto;">
+
+  <img
+    src="/files/wildtype_movie-zoomedin-8fps.gif"
+    alt="Lung fibroblasts interacting with a basal cell organoid"
+    style="display:block; width:100%; max-width:550px; height:auto; margin:0 auto;"
+  >
+
+  <p style="margin-top:10px;">
+    <em>Lung fibroblasts (red) interacting with a basal cell organoid (green).</em>
+  </p>
+
 </div>
-<center><font size="3">lung fibroblasts (red) interacting with a basal cell organoid (green)</font></center>
+
+
+<div style="text-align:center; width:100%; max-width:850px; margin:0 auto;">
+
+  <div style="margin-bottom:65px;">
+
+    <img
+      src="/files/organoid5-adjusted-1.gif"
+      alt="Three-dimensional rendering of fibroblasts interacting with basal cell organoids"
+      style="display:block; width:100%; height:auto; margin:0 auto;"
+    >
+
+    <p style="margin-top:10px;">
+      <em>Three-dimensional rendering of fibroblasts (green) interacting with basal cell organoids (magenta).</em>
+    </p>
+
+  </div>
+
+
+  <div style="margin-bottom:65px;">
+
+    <video
+      autoplay
+      muted
+      loop
+      playsinline
+      preload="metadata"
+      style="display:block; width:100%; height:auto; margin:0 auto;"
+    >
+      <source
+        src="/files/C02-1-1.mp4"
+        type="video/mp4"
+      >
+    </video>
+
+    <p style="margin-top:10px;">
+      <em>Co-culture interactions of alveolar type 2 epithelial cells (magenta) with lung fibroblasts (green).</em>
+    </p>
+
+  </div>
+
+
+  <div style="margin-bottom:40px;">
+
+    <video
+      autoplay
+      muted
+      loop
+      playsinline
+      preload="metadata"
+      style="display:block; width:100%; height:auto; margin:0 auto; border:1px solid #000;"
+    >
+      <source
+        src="/files/3D_UMAP_celltype2_rotate_y.mp4"
+        type="video/mp4"
+      >
+    </video>
+
+    <p style="margin-top:10px;">
+      <em>Single-cell data from the mouse lung.</em>
+    </p>
+
+  </div>
+
+</div>
