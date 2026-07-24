@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Nestled within the cornfields of Iowa, we study stem cells in the respiratory system and the signals that guide their behavior during homeostasis, injury, and repair. Our lab brings together scientists with backgrounds in bioengineering, biochemistry, immunology, and cell biology to tackle fundamental questions in regenerative lung biology. We combine live imaging, organoid models, mouse genetics, single-cell genomics, and computational biology to understand how the cellular neighborhoods of the lung control regeneration. 
+Nestled within the cornfields of Iowa, we study stem cells in the respiratory system and the signals that guide their behavior during homeostasis, injury, and repair. Our lab brings together scientists with backgrounds in bioengineering, biochemistry, immunology, and cell biology to tackle fundamental questions in regenerative lung biology. We combine mouse genetics, 3D organoid culture models, live imaging, single-cell genomics, and computational biology to understand how local cell neighborhoods in the lung control repair and regeneration. 
 
 Our goal is to uncover how cells communicate within the lung and use that knowledge to lay the foundation for future strategies to heal lung disease.
 
