@@ -130,7 +130,7 @@ title: "Meet the Lab"
   <img src="../files/Abby_McLeod.jpeg" alt="Abby McLeod" style="width:40%; max-width:360px; border-radius:8px;">
   <div>
     <strong>Abby McLeod</strong><br/>
-    <em>Research Assistant</em>
+    <em>Lab Manager</em>
   </div>
 </div>
 
