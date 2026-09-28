@@ -58,6 +58,29 @@ title: "Meet the Lab"
 .photo-hover:hover .photo-main {
   opacity: 0;
 }
+
+/* --- Lab alumni table --- */
+.alumni-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1em;
+}
+
+.alumni-table th,
+.alumni-table td {
+  text-align: left;
+  padding: 0.65em 1em 0.65em 0;
+  vertical-align: top;
+}
+
+.alumni-table th {
+  border-bottom: 2px solid #ddd;
+}
+
+.alumni-table td {
+  border-bottom: 1px solid #eee;
+}
+
 </style>
 
 <br/>
@@ -75,6 +98,18 @@ title: "Meet the Lab"
     Department of Anatomy and Cell Biology<br/>
     Carver College of Medicine<br/>
     University of Iowa
+  </div>
+</div>
+
+<!-- DOUGLAS -->
+<div class="person">
+  <div class="photo-hover">
+    <img class="photo-main" src="../files/douglas1.jpeg" alt="Douglas Dos Santos, PhD">
+    <img class="photo-hover-img" src="../files/douglas2.jpeg" alt="Douglas Dos Santos, PhD (hover)">
+  </div>
+  <div>
+    <strong>Douglas Dos Santos, PhD</strong><br/>
+    <em>Postdoctoral Fellow</em>
   </div>
 </div>
 
@@ -135,11 +170,21 @@ title: "Meet the Lab"
   </div>
 </div>
 
-<!-- WEIHONG -->
-<div class="person">
-  <img src="../files/weihong.jpg" alt="Weihong Zhou" style="width:40%; max-width:360px; border-radius:8px;">
-  <div>
-    <strong>Weihong Zhou</strong><br/>
-    <em>Lab Manager</em>
-  </div>
-</div>
+<br/>
+
+## Lab Alumni
+
+<table class="alumni-table">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Current Position</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Weihong Zhou</strong> (2025–2026)</td>
+      <td>Retired</td>
+    </tr>
+  </tbody>
+</table>
